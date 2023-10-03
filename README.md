@@ -6,9 +6,9 @@ src="https://camo.githubusercontent.com/6f5e3ead776bc722fbfc3da2c8b1454a7a5f27a0
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **C, Java, Python, Html, CSS, JS**
+- 🌱 I’m currently learning **C, Java, Python, Html, CSS, JavaScript, Bootstrap, PHP, MySQL, DSA**
 
-- 💬 Ask me about **Problem solving**
+- 💬 Ask me about **Web Development, Database Management System, Problem Solving**
 
 - 📫 How to reach me **soumitad991@gmail.com**
 
